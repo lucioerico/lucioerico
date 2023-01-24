@@ -47,4 +47,4 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
 - 📖 Estudo: Java, Android e Python.
 - 😊 Pronomes: Ele/Dele.
 - 🎶 Hobbies: Tocar guitarra, compor musica e viajar.
-- 🔍 Curiosidades: Possuo graduação em comunicação social / Já lancei um algo de música instrumental.
+- 🔍 Curiosidades: Possuo graduação em comunicação social / Já lancei um álbum de música instrumental.
