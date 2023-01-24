@@ -1,6 +1,6 @@
 
 ### 🇬🇧 Hi, my name is Lúcio and I'm a systems analysis and development student.
-I am currently working in CI&T.
+I am currently working as intern in CI&T.
 
 Despite being at the beginning of my career in software development, I am a professional with more than 10 years of experience in the market. Until 2021 I worked as a communicator/marketing, working for several companies such as Sesc SP, TOTVS, Superlógica, among others.
 
