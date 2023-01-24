@@ -35,7 +35,16 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
 
 ### 🇬🇧 ABOUT ME /  🇧🇷 SOBRE MIM
 
-- ⚙️ i´m working in CI&T with Java, Angular, Backend and native Android
-- 📖 Studying Java, Android and Python
-- 😊 Pronouns: He/Him
+🇬🇧
+- ⚙️ Work: i´m working in CI&T with Java, Angular, Backend and native Android.
+- 📖 Studying: Java, Android and Python.
+- 😊 Pronouns: He/Him.
 - 🎶 Hobbies: play guitar, make music and travel.
+- 🔍 Curiosities: I have University graduate in Social Communication / I release a instrumental music album .
+
+🇧🇷
+- ⚙️ Trabalho: Atualmente sou estagiário na CI&T e trabalho com Java, Angular, Backend e Android.
+- 📖 Estudo: Java, Android e Python.
+- 😊 Pronomes: Ele/Dele.
+- 🎶 Hobbies: Tocar guitarra, compor musica e viajar.
+- 🔍 Curiosidades: Possuo graduação em comunicação social / Já lancei um algo de música instrumental.
