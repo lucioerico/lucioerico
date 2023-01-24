@@ -18,9 +18,7 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioerico&show_icons=true&theme=radical)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioerico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioerico&layout=compact&langs_count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🇬🇧  Technologies that I study / 🇧🇷 Tecnologias que estudo
@@ -33,4 +31,11 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
          <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
            <img align="center" alt="Ubuntu-linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-</div>
+</div></br>
+
+### 🇬🇧 ABOUT ME /  🇧🇷 SOBRE MIM
+
+- ⚙️ i´m working in CI&T with Java, Angular, Backend and native Android
+- 📖 Studying Java, Android and Python
+- 😊 Pronouns: He/Him
+- 🎶 Hobbies: play guitar, make music and travel.
