@@ -1,7 +1,7 @@
 
-### Hi, my name is Lúcio and i'm a systems analysis and development student.
+### Hi, I'm a entry level Java Developer with a passion for coding and creating software solutions. 
 
-Hi, I'm a entry level Java Developer with a passion for coding and creating software solutions. I´m in my last year of analysis and software technologies degree and have hands-on experience in developing Java applications. I am proficient in object-oriented programming, data structures, and algorithms. My technical skills include Java, Spring Framework, Android, Python and SQL.
+I´m in my last year of analysis and software technologies degree and have hands-on experience in developing Java applications. I am proficient in object-oriented programming, data structures, and algorithms. My technical skills include Java, Spring Framework, Android, Python and SQL.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucioerico/)
