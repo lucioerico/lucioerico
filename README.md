@@ -1,15 +1,8 @@
 
-### 🇬🇧 Hi, my name is Lúcio and i'm a systems analysis and development student.
-I am currently working as intern in CI&T.
+### Hi, my name is Lúcio and i'm a systems analysis and development student.
 
-Despite being at the beginning of my career in software development, I am a professional with more than 10 years of experience in the market. Until 2021 I worked as a communicator/marketing, working for several companies such as Sesc SP, TOTVS, Superlógica, among others.
+Hi, I'm a entry level Java Developer with a passion for coding and creating software solutions. I´m in my last year of analysis and software technologies degree and have hands-on experience in developing Java applications. I am proficient in object-oriented programming, data structures, and algorithms. My technical skills include Java, Spring Framework, Android, Python and SQL.
 
------
-
-### 🇧🇷 Olá, me chamo Lúcio e sou estudante de análise e desenvolvimento de sistemas.
-Atualmente faço estágio na CI&T.
-
-Apesar de estar no início de carreira em desenvolvimento de software, sou um profissional com mais de 10 anos de experiência no mercado. Até 2021 atuei como comunicador/marketing, passando por várias empresas como Sesc SP, TOTVS, Superlógica, entre outras.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucioerico/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucioMoriyama)
@@ -21,7 +14,7 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioerico&layout=compact&langs_count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🇬🇧  Technologies that I study / 🇧🇷 Tecnologias que estudo
+### 🇬🇧  Technologies that I study 
 
 <div style="display: inline_block">
    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,7 +27,7 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
     	
 </div></br>
 
-### 🇬🇧 ABOUT ME /  🇧🇷 SOBRE MIM
+### 🇬🇧 ABOUT ME 
 
 🇬🇧
 - ⚙️ Work: i´m working in CI&T with Java, Angular, Backend and native Android.
@@ -42,10 +35,3 @@ Apesar de estar no início de carreira em desenvolvimento de software, sou um pr
 - 😊 Pronouns: He/Him.
 - 🎶 Hobbies: play guitar, make music and travel.
 - 🔍 Curiosities: I have University graduate in Social Communication / I release a instrumental music album .
-
-🇧🇷
-- ⚙️ Trabalho: Atualmente sou estagiário na CI&T e trabalho com Java, Angular, Backend e Android.
-- 📖 Estudo: Java, Android e Python.
-- 😊 Pronomes: Ele/Dele.
-- 🎶 Hobbies: Tocar guitarra, compor musica e viajar.
-- 🔍 Curiosidades: Possuo graduação em comunicação social / Já lancei um álbum de música instrumental.
