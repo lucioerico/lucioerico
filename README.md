@@ -30,7 +30,7 @@ I´m in my last year of analysis and software technologies degree and have hands
 ### 🇬🇧 ABOUT ME 
 
 🇬🇧
-- ⚙️ Work: i´m working in CI&T with Java, Angular, Backend and native Android.
+- ⚙️ Work: i´m working in AnimallTAG with Java, Kotlin and native Android.
 - 📖 Studying: Java, Android and Python.
 - 😊 Pronouns: He/Him.
 - 🎶 Hobbies: play guitar, make music and travel.
