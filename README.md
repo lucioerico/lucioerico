@@ -30,7 +30,7 @@ I´m in my last year of analysis and software technologies degree and have hands
 ### 🇬🇧 ABOUT ME 
 
 🇬🇧
-- ⚙️ Work: i´m working for AnimallTAG with Java, Kotlin and native Android.
+- ⚙️ Work: Looking for opportunities.
 - 📖 Studying: Java, Android and Python.
 - 😊 Pronouns: He/Him.
 - 🎶 Hobbies: play guitar, make music and travel.
