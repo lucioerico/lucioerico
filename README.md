@@ -14,7 +14,7 @@ I´m in my last year of analysis and software technologies degree and have hands
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioerico&layout=compact&langs_count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🇬🇧  Technologies that I study 
+### Technologies that I study 
 
 <div style="display: inline_block">
    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,9 +27,8 @@ I´m in my last year of analysis and software technologies degree and have hands
     	
 </div></br>
 
-### 🇬🇧 ABOUT ME 
+### ABOUT ME 
 
-🇬🇧
 - ⚙️ Work: Looking for opportunities.
 - 📖 Studying: Java, Android and Python.
 - 😊 Pronouns: He/Him.
