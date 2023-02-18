@@ -8,6 +8,7 @@ I´m in my last year of analysis and software technologies degree and have hands
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucioMoriyama)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moriyamalucio/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6FI7q2rSPDwN2YmmtJGGda?si=L00wv8tRRACBFRReG8m9SQ)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luciomoriyama)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioerico&show_icons=true&theme=radical)
 
