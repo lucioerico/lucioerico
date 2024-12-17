@@ -1,9 +1,4 @@
 
-### Hi, I'm a entry level Java Developer with a passion for coding and creating software solutions. 
-
-I´m in my last year of analysis and software technologies degree and have hands-on experience in developing Java applications. I am proficient in object-oriented programming, data structures, and algorithms. My technical skills include Java, Spring Framework, Android, Python and SQL.
-
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucioerico/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucioMoriyama)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moriyamalucio/)
